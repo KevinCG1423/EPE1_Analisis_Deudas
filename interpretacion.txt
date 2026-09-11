@@ -1,0 +1,56 @@
+
+RESUMEN EJECUTIVO DEL ANÁLISIS DE CARTERA DE DEUDAS
+
+1. DIMENSIONES DE LA CARTERA:
+   Total de clientes únicos: 420
+   Monto total adeudado: $5,661,826,207 CLP
+   Monto promedio por cliente: $13,480,539 CLP
+   Monto mediano por cliente: $4,808,911 CLP
+
+2. ANÁLISIS DE MOROSIDAD:
+   Cantidad de clientes morosos: 183
+   Porcentaje de clientes morosos: 43.57%
+   Monto total en mora: $2,484,960,686 CLP
+   Porcentaje de deuda en mora: 43.89%
+   Promedio de días de mora: 69.8 días
+
+3. DISTRIBUCIÓN POR ESTADO DE DEUDA:
+   Al día: 237 clientes
+   Mora temprana: 85 clientes
+   Mora media: 63 clientes
+   Mora avanzada: 35 clientes
+
+4. CONCENTRACIÓN REGIONAL:
+   Región con mayor deuda: Los Ríos
+   Monto: $928,880,889 CLP
+
+5. COMPOSICIÓN POR TIPO DE DEUDA:
+   Tipo más frecuente: Crédito de Consumo
+   Tipo con mayor morosidad: Crédito Automotriz
+
+6. CARGA FINANCIERA:
+   Carga financiera promedio: 140.05%
+   Carga financiera mediana: 33.30%
+   Clientes con carga > 100%: 89
+
+7. RECOMENDACIONES:
+
+   a) Mora Avanzada: 43.9% de la cartera en estado moroso
+      requiere intervención inmediata.
+
+   b) Enfoque Regional: Priorizar cobranza en Los Ríos
+      que concentra 16.4% de la deuda.
+
+   c) Revisión de Productos: Crédito Automotriz
+      presenta mayor morosidad promedio.
+
+   d) Carga Financiera: 89 clientes con
+      carga > 100% requieren evaluación especial.
+
+8. INDICADORES DE RIESGO:
+   Ratio de morosidad: 43.57%
+   Exposición concentrada: 16.4%
+
+CONCLUSIÓN:
+La cartera presenta morosidad del 43.6%. Se recomienda
+seguimiento continuo y revisión de políticas crediticias.
