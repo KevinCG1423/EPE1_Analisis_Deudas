@@ -15,8 +15,11 @@ import numpy as np
 import matplotlib
 matplotlib.use('TkAgg')  # Backend interactivo para mostrar gráficos
 import matplotlib.pyplot as plt
+from pathlib import Path
 import warnings
 warnings.filterwarnings('ignore')
+
+DIRECTORIO_SCRIPT = Path(__file__).resolve().parent
 
 # Configuración de matplotlib
 plt.rcParams['figure.figsize'] = (12, 6)
@@ -37,7 +40,7 @@ print("=" * 80)
 # Parte I - Pregunta 1: Cargue el archivo y muestre las primeras 10 filas
 print("\n# Parte I - Pregunta 1: Carga del archivo y primeras 10 filas")
 print("-" * 80)
-df = pd.read_csv('deudas_personas.csv')
+df = pd.read_csv(DIRECTORIO_SCRIPT / 'deudas_personas.csv')
 print("\nPrimeras 10 filas del DataFrame:")
 print(df.head(10))
 
@@ -180,7 +183,7 @@ try:
     ax.grid(axis='y', alpha=0.3)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
-    plt.savefig('grafico_01_deuda_por_region.png', dpi=300, bbox_inches='tight')
+    plt.savefig(DIRECTORIO_SCRIPT / 'grafico_01_deuda_por_region.png', dpi=300, bbox_inches='tight')
     plt.close()
     print("OK - grafico_01_deuda_por_region.png")
 except Exception as e:
@@ -195,7 +198,7 @@ try:
            colors=colors, startangle=90)
     ax.set_title('Distribucion de Clientes por Tipo de Deuda', fontsize=14, fontweight='bold')
     plt.tight_layout()
-    plt.savefig('grafico_02_distribucion_tipo_deuda.png', dpi=300, bbox_inches='tight')
+    plt.savefig(DIRECTORIO_SCRIPT / 'grafico_02_distribucion_tipo_deuda.png', dpi=300, bbox_inches='tight')
     plt.close()
     print("OK - grafico_02_distribucion_tipo_deuda.png")
 except Exception as e:
@@ -210,7 +213,7 @@ try:
     ax.set_ylabel('Cantidad de Clientes', fontsize=12)
     ax.grid(axis='y', alpha=0.3)
     plt.tight_layout()
-    plt.savefig('grafico_03_histograma_dias_mora.png', dpi=300, bbox_inches='tight')
+    plt.savefig(DIRECTORIO_SCRIPT / 'grafico_03_histograma_dias_mora.png', dpi=300, bbox_inches='tight')
     plt.close()
     print("OK - grafico_03_histograma_dias_mora.png")
 except Exception as e:
@@ -225,7 +228,7 @@ try:
     ax.set_ylabel('Monto Deuda (CLP)', fontsize=12)
     plt.suptitle('')
     plt.tight_layout()
-    plt.savefig('grafico_04_boxplot_monto_por_estado.png', dpi=300, bbox_inches='tight')
+    plt.savefig(DIRECTORIO_SCRIPT / 'grafico_04_boxplot_monto_por_estado.png', dpi=300, bbox_inches='tight')
     plt.close()
     print("OK - grafico_04_boxplot_monto_por_estado.png")
 except Exception as e:
@@ -305,7 +308,7 @@ seguimiento continuo y revisión de políticas crediticias.
 
 print(interpretacion)
 
-with open('interpretacion.txt', 'w', encoding='utf-8') as f:
+with open(DIRECTORIO_SCRIPT / 'interpretacion.txt', 'w', encoding='utf-8') as f:
     f.write(interpretacion)
 
 print("\nInterpretación guardada en: interpretacion.txt")
