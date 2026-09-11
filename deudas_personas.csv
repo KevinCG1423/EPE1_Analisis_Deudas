@@ -1,0 +1,427 @@
+id_cliente,rut,nombre,edad,sexo,region,comuna,tipo_deuda,institucion_financiera,monto_deuda,ingreso_mensual,num_cuotas,tasa_interes_anual,dias_mora,estado_deuda,fecha_origen_deuda
+C0181,24.647.949-6,Vicente Álvarez Vásquez,73,M,Los Lagos,Puerto Montt,Crédito Automotriz,Banco Estado,16541022,1190825,60,8.9,0,Al día,2022-08-03
+C0196,24.516.388-6,Tomás Soto Silva,55,M,Coquimbo,Ovalle,Crédito Estudiantil,Banco Estado,6900247,1855247,72,3.69,7,Mora temprana,2021-11-21
+C0390,12.430.103-3,Tomás Sepúlveda Rojas,24,M,Biobío,Los Ángeles,Tarjeta de Crédito,Banco Santander,711234,852525,3,32.06,10,Mora temprana,2024-03-30
+C0088,10.842.698-5,Carolina Reyes López,36,F,Los Lagos,Osorno,Crédito de Consumo,Banco Itaú,2672774,1771695,36,20.27,22,Mora temprana,2024-05-20
+C0380,9.823.326-1,Martín Contreras Álvarez,61,M,Coquimbo,Coquimbo,Crédito Automotriz,Banco Ripley,4645243,943462,36,12.16,55,Mora media,2025-05-06
+C0316,16.679.122-7,Patricia Cortés Pérez,73,F,Los Lagos,Puerto Montt,Crédito de Consumo,Banco de Chile,7850780,1121865,48,15.39,0,Al día,2023-07-26
+C0125,14.247.804-8,Ignacio Hernández Castillo,52,M,O'Higgins,Rengo,Crédito Estudiantil,Banco Santander,9459284,2164801,60,2.82,52,Mora media,2025-09-02
+C0352,20.054.249-5,Manuel Cortés Rodríguez,23,M,Los Ríos,Valdivia,Crédito Hipotecario,Coopeuch,37120235,736597,240,3.69,118,Mora avanzada,2026-07-30
+C0167,11.195.226-4,Isidora Vergara Contreras,69,F,Metropolitana,San Bernardo,Crédito de Consumo,Banco Itaú,3124903,1660866,36,31.64,0,Al día,2023-05-16
+C0057,16.892.688-K,Sebastián Pérez Araya,55,M,Coquimbo,La Serena,Crédito Estudiantil,Caja Los Andes,9823994,589110,60,2.05,0,Al día,2022-11-29
+C0228,24.579.380-4,Florencia Gutiérrez Fuentes,36,F,Biobío,Concepción,Crédito de Consumo,Banco BCI,8364202,1823268,36,18.99,0,Al día,2026-01-30
+C0195,21.033.297-9,Daniela Araya Rodríguez,67,F,Los Ríos,Valdivia,Crédito Estudiantil,Banco de Chile,5045872,989772,48,3.6,78,Mora media,2026-04-08
+C0069,8.095.145-0,Catalina Silva Pérez,68,F,Los Ríos,Valdivia,Tarjeta de Crédito,Coopeuch,2539468,895884,3,39.95,0,Al día,2022-03-29
+C0234,21.531.730-7,Claudia Cortés Soto,50,F,Antofagasta,Calama,Crédito Estudiantil,Banco de Chile,9248484,1955862,48,2.72,116,Mora avanzada,2023-09-27
+C0115,25.425.914-4,Valentina López Rodríguez,68,F,Coquimbo,Ovalle,Crédito Automotriz,Banco BCI,11541658,1807801,60,10.5,0,Al día,2025-10-24
+C0102,9.086.671-0,Felipe Castillo Tapia,21,M,Valparaíso,San Antonio,Crédito de Consumo,Banco Santander,2695441,380000,48,15.59,0,Al día,2022-03-20
+C0317,8.279.648-7,Eduardo Álvarez Pérez,62,M,Metropolitana,Providencia,Crédito Hipotecario,Coopeuch,54286770,518306,180,3.68,0,Al día,2022-09-04
+C0280,18.583.635-5,Constanza Vergara Valenzuela,40,F,Biobío,Concepción,Tarjeta de Crédito,Banco de Chile,2862602,1797280,12,34.57,65,Mora media,2026-05-06
+C0227,25.553.870-5,Trinidad Fuentes Reyes,24,F,O'Higgins,Rengo,Crédito Hipotecario,Banco Santander,34081350,755004,120,4.35,62,Mora media,2025-06-20
+C0150,11.122.718-7,Cristóbal Rojas González,37,M,Antofagasta,Calama,Crédito Automotriz,Banco de Chile,4464604,657887,36,10.02,17,Mora temprana,2024-04-17
+C0182,9.542.884-3,Pedro Rodríguez Muñoz,,M,Los Ríos,Valdivia,Crédito de Consumo,Banco Falabella,2026457,2001788,12,18.88,0,Al día,2026-05-02
+C0214,13.486.606-3,Manuel Contreras Martínez,41,M,Antofagasta,Tocopilla,Crédito de Consumo,Banco de Chile,812765,1808526,24,21.33,6,Mora temprana,2023-12-03
+C0174,15.148.954-0,Valentina Morales Rodríguez,74,F,Los Lagos,Osorno,Crédito de Consumo,Banco Santander,2696676,1898030,12,24.02,0,Al día,2022-12-08
+C0250,22.604.155-9,Marcela Flores Flores,18,F,Valparaíso,Viña del Mar,Crédito Hipotecario,Banco BCI,111993526,1316359,300,6.01,0,Al día,2021-12-07
+C0278,19.475.376-4,Cristóbal Martínez Rojas,42,M,Araucanía,Villarrica,Crédito Automotriz,CMR Falabella,11665502,1120496,24,11.91,0,Al día,2024-12-20
+C0098,10.117.302-K,Marcela Espinoza Álvarez,66,F,Coquimbo,Coquimbo,Tarjeta de Crédito,Coopeuch,3492103,1198983,3,40.42,23,Mora temprana,2023-11-24
+C0005,23.396.513-8,Ximena Morales Vergara,67,F,Metropolitana,La Florida,Crédito Automotriz,Banco Ripley,7491946,1343433,24,8.48,252,Mora avanzada,2025-05-22
+C0262,20.700.973-3,Nicolás Torres Cortés,47,M,Metropolitana,Santiago,Crédito Estudiantil,Banco Ripley,9747185,596478,48,4.5,0,Al día,2023-07-13
+C0085,23.526.026-3,Carlos Muñoz Rodríguez,50,M,Valparaíso,Quilpué,Crédito de Consumo,Banco Estado,6486390,499307,36,16.3,85,Mora media,2026-01-28
+C0251,21.020.213-7,Verónica Reyes Pérez,19,F,Antofagasta,Tocopilla,Crédito de Consumo,Banco de Chile,1210467,380000,24,28.5,19,Mora temprana,2021-12-22
+C0285,16.647.474-4,Ignacio Martínez Flores,72,M,Los Ríos,Valdivia,Crédito de Consumo,Banco Santander,3914941,556495,36,23.1,15,Mora temprana,2022-05-29
+C0144,10.705.054-K,Constanza Contreras Valenzuela,51,F,Los Lagos,Castro,Tarjeta de Crédito,CMR Falabella,1644691,545715,12,30.39,0,Al día,2022-09-03
+C0399,24.461.321-7,Benjamín Cortés Espinoza,66,M,Maule,Talca,Tarjeta de Crédito,Banco Falabella,813554,1374227,12,37.18,39,Mora media,2025-06-18
+C0030,13.340.453-8,Valentina Hernández Pérez,69,F,Antofagasta,Tocopilla,Crédito de Consumo,Coopeuch,5623376,1791629,48,25.42,17,Mora temprana,2024-03-10
+C0245,9.363.458-6,Claudia Gutiérrez Gutiérrez,59,F,Coquimbo,Coquimbo,Crédito Automotriz,Banco BCI,10529864,1096628,36,13.88,0,Al día,2025-08-10
+C0156,19.126.538-6,Florencia Gutiérrez Bravo,69,F,O'Higgins,San Fernando,Crédito Hipotecario,Banco de Chile,53316996,670300,240,4.0,19,Mora temprana,2022-12-18
+C0369,9.852.025-2,Rodrigo Fuentes López,72,M,Valparaíso,Villa Alemana,Tarjeta de Crédito,CMR Falabella,3350843,2008033,12,21.27,0,Al día,2024-07-26
+C0205,24.411.365-6,Trinidad Vergara Reyes,58,F,Los Ríos,La Unión,Tarjeta de Crédito,Banco Estado,796522,895412,6,44.38,0,Al día,2025-12-07
+C0299,11.066.927-5,Matías Soto Tapia,35,M,Los Ríos,Valdivia,Crédito de Consumo,Banco BCI,1004531,398727,48,26.7,0,Al día,2022-04-05
+C0012,22.212.940-0,Josefa Reyes Torres,31,F,O'Higgins,Rancagua,Crédito Automotriz,Banco Itaú,10930103,1588403,36,12.49,43,Mora media,2026-01-19
+C0089,24.316.544-K,Andrés López Castillo,68,M,Coquimbo,Coquimbo,Crédito Hipotecario,Coopeuch,106707983,633583,300,5.03,0,Al día,2024-11-06
+C0271,24.188.931-9,Rosa Tapia Morales,44,F,Coquimbo,La Serena,Tarjeta de Crédito,Banco Itaú,1175983,911906,12,33.25,22,Mora temprana,2024-05-09
+C0036,11.843.085-9,Constanza Contreras Vergara,19,F,Los Ríos,Valdivia,Tarjeta de Crédito,Caja Los Andes,559784,1070373,3,30.56,0,Al día,2024-07-06
+C0383,12.998.593-3,Sofía Carrasco Araya,49,F,Araucanía,Padre Las Casas,Crédito Automotriz,Banco Falabella,15247665,410416,60,12.15,0,Al día,2024-09-29
+C0261,14.938.186-4,Emilia Soto Soto,54,F,Los Ríos,Valdivia,Crédito Automotriz,Caja Los Andes,3678132,1132448,36,12.33,0,Al día,2025-02-05
+C0060,17.651.317-9,Javiera Soto Rojas,57,F,Maule,Curicó,Crédito de Consumo,Banco Itaú,4195475,,48,25.84,0,Al día,2022-11-04
+C0253,12.834.372-5,Luis Sepúlveda Valenzuela,23,M,Los Lagos,Puerto Varas,Crédito de Consumo,Banco Estado,2922672,824414,24,17.32,0,Al día,2022-02-09
+C0020,22.350.791-3,Felipe Bravo Cortés,72,M,Metropolitana,Puente Alto,Crédito Hipotecario,Banco Falabella,20475894,519701,240,5.81,9,Mora temprana,2025-09-04
+C0198,22.658.870-1,María Pérez Espinoza,63,F,Biobío,Concepción,Crédito Automotriz,Banco Ripley,9267813,585319,60,11.1,0,Al día,2024-10-09
+C0393,18.634.867-2,Tomás Soto Vergara,63,M,Biobío,Talcahuano,Tarjeta de Crédito,Banco Estado,2489733,1148413,3,29.9,0,Al día,2025-06-06
+C0342,8.754.312-9,Nicolás Gutiérrez Carrasco,51,M,Valparaíso,Valparaíso,Crédito de Consumo,Banco Estado,1760891,1820853,36,22.94,0,Al día,2023-08-30
+C0135,13.876.494-K,Diego Vergara Cortés,64,M,Los Ríos,La Unión,Crédito de Consumo,Banco Ripley,5362767,964505,24,31.76,0,Al día,2024-04-06
+C0188,14.967.115-3,Francisco Hernández Martínez,32,M,Valparaíso,Viña del Mar,Tarjeta de Crédito,Banco Itaú,731839,608532,1,22.44,0,Al día,2024-04-20
+C0378,22.585.160-3,Ricardo Castillo Reyes,31,M,Los Lagos,Puerto Montt,Tarjeta de Crédito,Banco Santander,2069831,1817060,12,22.76,2,Mora temprana,2026-04-12
+C0324,21.859.457-3,Paula Carrasco Valenzuela,48,F,Coquimbo,Coquimbo,Crédito Estudiantil,Caja Los Andes,3307080,1373729,36,2.58,0,Al día,2022-04-18
+C0338,19.130.652-K,Claudia Hernández Bravo,73,F,O'Higgins,Rengo,Crédito de Consumo,CMR Falabella,1239897,,36,24.6,18,Mora temprana,2023-07-30
+C0046,10.518.759-9,Agustín Cortés Hernández,37,M,Los Ríos,La Unión,Crédito de Consumo,Banco Itaú,1964863,506312,24,25.63,0,Al día,2026-02-15
+C0134,24.907.938-3,Constanza Contreras Rojas,24,F,Los Ríos,Valdivia,Crédito de Consumo,Banco Estado,1042169,535946,48,22.46,0,Al día,2022-05-09
+C0241,24.907.858-1,Manuel Flores Carrasco,38,M,O'Higgins,San Fernando,Tarjeta de Crédito,Banco BCI,3076345,1688974,6,36.54,158,Mora avanzada,2022-08-07
+C0231,22.702.304-K,Amanda López Hernández,35,F,Maule,Cauquenes,Crédito Automotriz,Banco Santander,5223175,617096,24,13.87,37,Mora media,2024-03-31
+C0337,24.156.308-1,Francisco López Álvarez,54,M,Los Ríos,Valdivia,Crédito Automotriz,Banco BCI,16989267,1073139,48,13.46,0,Al día,2023-12-03
+C0362,22.488.329-3,Vicente Araya Carrasco,45,M,Metropolitana,Ñuñoa,Crédito Estudiantil,Caja Los Andes,6296376,1181120,72,4.05,0,Al día,2023-08-08
+C0402,19.944.851-K,Pedro Álvarez Espinoza,19,M,Los Lagos,Osorno,Crédito Hipotecario,Banco Santander,81880273,630251,180,4.57,0,Al día,2024-07-22
+C0230,14.136.079-5,Pablo Díaz Díaz,72,M,Metropolitana,Santiago,Crédito Estudiantil,Banco Santander,6998314,1176176,60,4.87,0,Al día,2022-06-21
+C0218,14.372.495-6,Camila Araya Vásquez,33,F,Metropolitana,Providencia,Crédito Hipotecario,Banco Santander,23416548,1892640,300,6.49,0,Al día,2024-03-26
+C0307,22.448.138-1,Cristóbal Soto Tapia,29,M,O'Higgins,Rengo,Crédito de Consumo,Banco Santander,7732510,1499670,36,30.34,11,Mora temprana,2021-11-04
+C0007,19.414.394-K,Claudia Soto Tapia,61,F,Maule,Talca,Crédito de Consumo,Banco Itaú,4518028,1497728,12,26.56,0,Al día,2023-07-28
+C0193,16.360.011-0,Antonia Valenzuela Valenzuela,57,F,Araucanía,Angol,Crédito de Consumo,Coopeuch,1323059,1523060,12,19.76,0,Al día,2025-06-18
+C0415,17.850.337-5,Fernanda Torres Reyes,19,F,Biobío,Chillán,Crédito Hipotecario,Banco Ripley,60634767,420186,120,5.78,17,Mora temprana,2022-04-12
+C0374,10.121.374-9,Eduardo Tapia Valenzuela,32,M,Valparaíso,Viña del Mar,Crédito de Consumo,CMR Falabella,2326728,1059969,24,20.47,200,Mora avanzada,2022-04-18
+C0403,20.164.242-6,Trinidad Sepúlveda Araya,58,F,Valparaíso,Villa Alemana,Tarjeta de Crédito,Banco Santander,476398,2182035,3,32.68,83,Mora media,2021-11-04
+C0279,15.690.928-9,Carolina Cortés Soto,48,F,Coquimbo,Ovalle,Tarjeta de Crédito,Banco Itaú,846653,944292,3,31.47,0,Al día,2022-06-16
+C0050,18.772.927-0,Carlos Muñoz Vásquez,66,M,Biobío,Chillán,Crédito de Consumo,Caja Los Andes,3344882,1059669,48,25.79,0,Al día,2026-01-26
+C0175,17.293.492-7,Sofía Valenzuela Reyes,46,F,Araucanía,Temuco,Crédito Estudiantil,Banco Santander,3066235,1957992,72,4.19,0,Al día,2024-03-04
+C0139,24.685.857-8,Verónica Vásquez Torres,33,F,Los Ríos,Valdivia,Crédito de Consumo,Banco BCI,5695804,1537794,36,21.47,0,Al día,2024-07-26
+C0201,22.081.225-1,Francisco Soto Castillo,74,M,Valparaíso,Quilpué,Crédito de Consumo,Banco Falabella,4486600,901712,12,20.96,77,Mora media,2026-07-29
+C0295,22.101.016-7,Matías Pérez Muñoz,52,M,Metropolitana,Maipú,Crédito Estudiantil,Banco Falabella,3097809,,60,4.18,0,Al día,2025-09-26
+C0418,21.822.063-0,Ricardo Sepúlveda Morales,21,M,Metropolitana,Santiago,Tarjeta de Crédito,Banco Ripley,3475513,666988,1,38.66,13,Mora temprana,2026-01-13
+C0371,23.076.250-3,Benjamín Bravo Castillo,46,M,Araucanía,Villarrica,Tarjeta de Crédito,Banco Estado,2566993,1889402,3,31.21,0,Al día,2023-07-20
+C0258,12.697.676-3,Gabriel Pérez Reyes,64,M,Coquimbo,Illapel,Crédito de Consumo,Banco Ripley,5424966,2205284,48,24.38,0,Al día,2023-03-07
+C0120,17.175.712-6,Joaquín Silva Martínez,53,M,Los Lagos,Osorno,Crédito Estudiantil,Banco Falabella,5848684,1997269,36,4.07,0,Al día,2023-11-22
+C0263,24.838.854-4,Carlos Castillo Bravo,71,M,Valparaíso,Villa Alemana,Tarjeta de Crédito,Banco BCI,1782225,1609201,6,40.07,0,Al día,2022-02-19
+C0183,24.845.698-1,Gabriel López Cortés,27,M,Biobío,Concepción,Crédito de Consumo,CMR Falabella,5698941,850842,24,22.08,9,Mora temprana,2021-12-13
+C0365,23.668.429-6,Patricia Castillo Díaz,63,F,Valparaíso,Valparaíso,Crédito Estudiantil,Banco Santander,11870056,1285285,72,4.41,0,Al día,2025-12-16
+C0146,21.364.596-K,Constanza Contreras Bravo,73,F,Los Ríos,La Unión,Tarjeta de Crédito,Banco de Chile,1255969,1996886,1,22.84,32,Mora media,2025-06-02
+C0247,19.136.162-8,Carlos Flores Rodríguez,22,M,Coquimbo,Coquimbo,Crédito Estudiantil,Coopeuch,9474848,380000,36,3.25,0,Al día,2026-01-24
+C0128,15.328.677-9,Manuel Díaz Castillo,36,M,Coquimbo,Coquimbo,Tarjeta de Crédito,Banco Santander,722506,1382820,12,38.19,14,Mora temprana,2022-08-24
+C0166,13.569.418-5,Felipe Rodríguez Carrasco,70,M,Valparaíso,San Antonio,Crédito Estudiantil,Banco de Chile,4975295,2207278,36,4.43,12,Mora temprana,2021-10-02
+C0038,25.506.915-2,Andrés Fuentes Reyes,41,M,Valparaíso,Villa Alemana,Crédito Hipotecario,Banco Estado,76379329,2161689,300,3.82,326,Mora avanzada,2022-08-13
+C0004,17.057.945-3,Valentina López Martínez,47,F,Coquimbo,Coquimbo,Crédito de Consumo,Banco BCI,4779144,1785459,12,25.36,0,Al día,2022-06-29
+C0358,16.457.427-K,Sebastián Castillo Torres,55,M,Biobío,Coronel,Tarjeta de Crédito,Banco Falabella,3172796,2076377,1,25.74,0,Al día,2023-09-30
+C0053,13.166.413-3,Cristóbal González Castillo,56,M,Araucanía,Villarrica,Crédito de Consumo,Banco Estado,7144947,1691970,12,18.82,38,Mora media,2023-12-29
+C0229,18.492.709-8,Fernanda Vásquez Araya,22,F,Valparaíso,Quilpué,Crédito Hipotecario,Caja Los Andes,55450260,600481,300,3.65,86,Mora media,2026-05-12
+C0323,23.992.116-7,Marcela Contreras Díaz,26,F,Biobío,Concepción,Crédito Automotriz,Banco Itaú,7477211,1673830,36,11.17,0,Al día,2026-06-08
+C0376,9.262.358-0,María González Soto,23,F,Los Ríos,La Unión,Crédito de Consumo,Caja Los Andes,2428901,1099188,24,17.43,0,Al día,2024-01-21
+C0288,21.322.639-8,Felipe Bravo Hernández,67,M,Coquimbo,Illapel,Crédito de Consumo,Banco Santander,687572,2388553,24,27.37,24,Mora temprana,2022-08-26
+C0094,12.657.109-7,Amanda Araya Rodríguez,33,F,Maule,Talca,Crédito de Consumo,Banco Estado,1962338,1048330,36,28.45,0,Al día,2024-12-21
+C0157,10.880.809-8,Cristóbal González Díaz,34,M,Araucanía,Villarrica,Crédito de Consumo,CMR Falabella,8696422,1351113,24,20.86,0,Al día,2025-12-29
+C0406,11.748.774-1,Matías Álvarez Vergara,25,M,Araucanía,Villarrica,Crédito Estudiantil,Banco Santander,4801288,1822939,48,2.38,0,Al día,2026-02-21
+C0225,20.589.368-7,Gabriel Vásquez Contreras,28,M,Maule,Talca,Tarjeta de Crédito,Banco Santander,3158940,822898,1,33.92,0,Al día,2024-07-11
+C0348,24.185.807-3,Amanda Vergara Gutiérrez,68,F,Valparaíso,Quilpué,Crédito de Consumo,Banco de Chile,5368701,2246032,48,21.81,0,Al día,2023-02-06
+C0351,18.219.006-3,Isidora Vergara Pérez,74,F,Los Ríos,Valdivia,Crédito Automotriz,Banco Santander,11912993,1462951,48,9.73,7,Mora temprana,2025-06-05
+C0267,8.555.749-1,Sofía Valenzuela Pérez,68,F,Los Ríos,Valdivia,Crédito Hipotecario,Coopeuch,42511225,1028214,240,6.27,3,Mora temprana,2025-04-17
+C0420,24.870.112-9,Felipe González Gutiérrez,48,M,Los Ríos,Valdivia,Crédito Estudiantil,CMR Falabella,7548160,1576118,48,3.72,37,Mora media,2022-09-16
+C0191,19.124.968-2,Isidora Vergara López,41,F,Valparaíso,Villa Alemana,Crédito Hipotecario,Banco de Chile,28653290,425718,180,6.21,0,Al día,2025-11-10
+C0370,20.054.802-7,Florencia Flores Carrasco,39,F,Valparaíso,San Antonio,Crédito Automotriz,Banco Falabella,6407796,1738519,36,10.88,188,Mora avanzada,2024-11-26
+C0037,9.378.051-5,Trinidad Díaz Espinoza,19,F,Los Lagos,Puerto Varas,Crédito de Consumo,Banco BCI,4374336,380000,12,26.85,0,Al día,2022-09-29
+C0160,14.273.331-5,Matías Álvarez Valenzuela,74,M,Araucanía,Padre Las Casas,Crédito Hipotecario,CMR Falabella,114588013,428265,180,4.12,82,Mora media,2022-02-12
+C0149,18.625.958-0,Ximena Espinoza Reyes,42,F,Valparaíso,Villa Alemana,Tarjeta de Crédito,Banco BCI,388309,1875496,1,25.24,0,Al día,2022-03-09
+C0215,8.298.566-2,Pablo Vergara Gutiérrez,23,M,Los Lagos,Puerto Montt,Crédito de Consumo,Banco Santander,3895669,1302355,24,26.01,9,Mora temprana,2022-12-05
+C0111,9.698.031-0,Manuel Morales Álvarez,73,M,Coquimbo,Illapel,Tarjeta de Crédito,Banco Ripley,2435735,1605990,1,26.62,0,Al día,2025-01-30
+C0414,11.342.135-5,Gabriel Torres Reyes,56,M,Maule,Cauquenes,Crédito de Consumo,Banco Santander,7927505,2189672,12,17.08,0,Al día,2025-04-15
+C0027,15.170.629-0,Luis Álvarez Bravo,29,M,Los Ríos,La Unión,Crédito de Consumo,Banco Estado,5113613,1017271,24,22.31,21,Mora temprana,2024-10-10
+C0303,10.237.404-5,Catalina Álvarez Rojas,60,F,O'Higgins,Rengo,Tarjeta de Crédito,Caja Los Andes,2393023,2184446,3,34.55,0,Al día,2022-12-27
+C0170,24.285.237-0,Jorge Reyes Gutiérrez,40,M,Valparaíso,Villa Alemana,Crédito de Consumo,CMR Falabella,3854277,2109830,48,19.57,52,Mora media,2023-07-07
+C0016,16.261.616-1,Antonia Espinoza Torres,50,F,O'Higgins,Rancagua,Tarjeta de Crédito,Coopeuch,859406,548005,1,34.07,8,Mora temprana,2024-04-26
+C0168,17.016.651-5,Marcela Tapia Fuentes,21,F,Los Lagos,Osorno,Crédito Automotriz,Banco Santander,5453557,542166,48,12.8,74,Mora media,2024-05-18
+C0087,19.062.586-9,Rosa Hernández Hernández,51,F,O'Higgins,San Fernando,Tarjeta de Crédito,Banco Ripley,1704942,973270,12,38.91,2,Mora temprana,2022-02-26
+C0246,18.105.078-0,Felipe Flores Martínez,26,M,Biobío,Coronel,Crédito Automotriz,Banco Estado,10823741,1073240,36,7.28,396,Mora avanzada,2026-04-18
+C0310,11.199.886-8,Josefa Tapia Sepúlveda,23,F,Los Ríos,La Unión,Crédito de Consumo,Banco BCI,1595227,1151920,36,28.48,0,Al día,2021-12-13
+C0318,24.799.053-4,Amanda Reyes Martínez,60,F,Coquimbo,La Serena,Tarjeta de Crédito,CMR Falabella,1676776,951274,1,42.4,0,Al día,2023-03-27
+C0118,21.769.980-0,Andrea Torres Soto,51,F,Los Ríos,La Unión,Tarjeta de Crédito,Banco BCI,2481533,446208,1,23.15,0,Al día,2024-03-26
+C0248,18.768.859-0,Gabriel Sepúlveda Contreras,66,M,Los Ríos,La Unión,Crédito Estudiantil,Banco Estado,6805039,682647,60,2.72,30,Mora temprana,2023-02-05
+C0056,13.103.807-0,Francisco Carrasco Contreras,62,M,Araucanía,Padre Las Casas,Tarjeta de Crédito,CMR Falabella,1414528,518688,12,37.04,55,Mora media,2022-11-10
+C0364,9.908.640-8,Andrés González Reyes,18,M,Valparaíso,Valparaíso,Crédito de Consumo,Coopeuch,7781668,,36,18.73,0,Al día,2025-07-01
+C0092,11.442.340-8,Ricardo Sepúlveda Vásquez,42,M,O'Higgins,San Fernando,Crédito de Consumo,Banco Santander,3650371,2093145,24,29.84,0,Al día,2023-11-20
+C0002,19.541.238-3,Diego Hernández Espinoza,35,M,Metropolitana,Maipú,Crédito Hipotecario,Banco Ripley,40868105,962738,180,6.37,0,Al día,2026-01-23
+C0357,18.202.924-6,Eduardo Muñoz Bravo,39,M,O'Higgins,Rancagua,Crédito de Consumo,Coopeuch,5861881,1364051,48,21.0,241,Mora avanzada,2024-12-16
+C0239,12.307.777-6,Luis Espinoza Araya,26,M,Antofagasta,Antofagasta,Crédito de Consumo,Banco Estado,7561353,1540199,48,30.71,89,Mora media,2025-08-03
+C0151,10.122.893-2,Nicolás González Sepúlveda,44,M,Maule,Talca,Crédito Automotriz,Coopeuch,12595903,889067,36,11.8,0,Al día,2025-01-27
+C0270,20.583.914-3,Vicente Martínez Torres,67,M,Araucanía,Temuco,Tarjeta de Crédito,Coopeuch,1161312,1360693,3,18.15,1,Mora temprana,2023-05-05
+C0419,25.272.473-7,Sebastián Reyes Silva,33,M,Araucanía,Angol,Crédito Hipotecario,Banco de Chile,35364077,1019447,240,4.01,0,Al día,2026-05-16
+C0363,14.037.001-0,Francisco Martínez Martínez,69,M,Valparaíso,Quilpué,Crédito Hipotecario,CMR Falabella,110636039,1481715,180,5.7,7,Mora temprana,2023-09-01
+C0386,10.716.534-7,Manuel Castillo González,73,M,Valparaíso,San Antonio,Crédito Estudiantil,Banco Ripley,1548852,1642762,48,3.28,0,Al día,2023-02-23
+C0359,24.271.165-3,Patricia Martínez Martínez,72,F,Los Lagos,Puerto Montt,Crédito Automotriz,Banco Itaú,12928255,820810,36,11.61,0,Al día,2025-08-06
+C0013,16.382.113-3,Agustín Carrasco Álvarez,21,M,Valparaíso,Valparaíso,Crédito de Consumo,Banco Ripley,2133230,1235378,24,18.26,0,Al día,2025-10-17
+C0044,11.828.129-2,Manuel Pérez Castillo,73,M,Antofagasta,Antofagasta,Crédito Estudiantil,Banco Itaú,8875173,1073932,60,3.32,0,Al día,2026-04-17
+C0068,8.716.637-6,Florencia Díaz Reyes,41,F,O'Higgins,San Fernando,Crédito de Consumo,CMR Falabella,3484459,958565,12,31.13,36,Mora media,2022-11-12
+C0349,24.328.603-4,Benjamín Morales Contreras,70,M,Los Ríos,La Unión,Crédito Automotriz,CMR Falabella,16209151,1726480,48,10.81,0,Al día,2022-11-12
+C0119,16.870.522-0,Pablo Álvarez Muñoz,63,M,Biobío,Coronel,Tarjeta de Crédito,Banco Ripley,2086433,1945669,12,26.47,0,Al día,2023-08-05
+C0023,15.636.837-7,Javiera Álvarez Cortés,39,F,Maule,Curicó,Tarjeta de Crédito,Banco de Chile,242422,1182248,12,24.01,60,Mora media,2024-08-14
+C0332,17.542.227-7,Javiera Pérez Muñoz,59,F,Coquimbo,La Serena,Tarjeta de Crédito,Banco Estado,2504696,1956672,6,26.94,0,Al día,2025-12-20
+C0379,22.925.712-9,Francisco Valenzuela Tapia,74,M,Antofagasta,Antofagasta,Tarjeta de Crédito,Banco Estado,817726,1657618,3,39.21,0,Al día,2025-12-06
+C0145,11.199.812-4,Fernanda López López,42,F,O'Higgins,Rengo,Tarjeta de Crédito,Banco Estado,798834,1853973,1,31.5,0,Al día,2022-03-08
+C0006,11.679.214-1,Josefa Pérez Silva,65,F,O'Higgins,San Fernando,Tarjeta de Crédito,Banco Itaú,2527514,1406339,12,27.77,161,Mora avanzada,2023-09-22
+C0292,15.758.301-8,Felipe Pérez Sepúlveda,18,M,Metropolitana,Maipú,Crédito de Consumo,Caja Los Andes,439537,901309,48,31.1,0,Al día,2026-07-13
+C0387,14.869.014-6,Pablo Cortés Muñoz,50,M,Coquimbo,La Serena,Tarjeta de Crédito,Banco Ripley,2676833,1355915,1,27.87,0,Al día,2023-06-13
+C0097,16.090.843-2,Benjamín Araya Flores,50,M,O'Higgins,San Fernando,Tarjeta de Crédito,Caja Los Andes,2746196,471298,12,44.49,0,Al día,2026-06-28
+C0243,15.526.506-K,Ximena Muñoz Contreras,35,F,Biobío,Los Ángeles,Crédito Hipotecario,Banco Santander,28325904,2140311,240,4.11,0,Al día,2024-07-27
+C0289,15.695.908-1,Valentina Rojas Cortés,74,F,Antofagasta,Tocopilla,Tarjeta de Crédito,CMR Falabella,3288627,1626758,1,20.81,3,Mora temprana,2022-11-28
+C0095,23.338.187-K,Agustín Valenzuela González,75,M,Valparaíso,Valparaíso,Tarjeta de Crédito,Banco Santander,3130243,1684017,12,21.0,0,Al día,2024-11-22
+C0107,12.166.155-1,Camila Morales Castillo,22,F,Antofagasta,Calama,Crédito Hipotecario,Banco Ripley,93994695,389482,180,5.8,0,Al día,2023-10-06
+C0171,18.128.925-2,Luis Vásquez Muñoz,20,M,Valparaíso,San Antonio,Tarjeta de Crédito,Banco Santander,1994775,783265,1,44.78,0,Al día,2022-09-20
+C0051,25.266.984-1,Javiera Morales Fuentes,62,F,Antofagasta,Calama,Crédito Hipotecario,CMR Falabella,93832717,2294788,120,4.86,0,Al día,2024-10-07
+C0073,11.190.551-7,Eduardo Araya Sepúlveda,47,M,O'Higgins,San Fernando,Crédito de Consumo,Banco de Chile,3907488,2168435,48,22.68,0,Al día,2024-09-05
+C0190,15.458.752-7,Ximena Sepúlveda Martínez,,F,Biobío,Concepción,Crédito Estudiantil,Caja Los Andes,10229497,1700510,36,2.28,0,Al día,2022-02-17
+C0152,20.746.991-2,Sofía Martínez Fuentes,37,F,Antofagasta,Antofagasta,Crédito de Consumo,Banco BCI,8618184,1891835,24,22.78,0,Al día,2026-07-18
+C0045,25.534.624-5,Amanda Torres Rojas,54,F,Metropolitana,Maipú,Tarjeta de Crédito,Banco Itaú,437274,1017189,3,21.2,69,Mora media,2023-03-29
+C0199,13.962.900-0,Jorge Morales Soto,63,M,O'Higgins,San Fernando,Crédito Estudiantil,Banco Itaú,6986539,2233485,36,4.0,55,Mora media,2024-11-10
+C0274,25.131.143-9,Nicolás Valenzuela Castillo,51,M,Los Lagos,Puerto Montt,Crédito Estudiantil,Banco Santander,9294125,1722788,60,2.03,90,Mora media,2022-01-27
+C0333,17.207.958-K,Emilia Álvarez Espinoza,41,F,Metropolitana,Puente Alto,Crédito Automotriz,Banco Ripley,9357547,1152946,24,12.31,35,Mora media,2024-12-09
+C0410,24.636.824-4,Manuel Espinoza Soto,46,M,Valparaíso,Viña del Mar,Crédito Automotriz,CMR Falabella,6594921,1269385,36,9.85,51,Mora media,2025-11-20
+C0396,25.172.739-2,Emilia Rodríguez Rojas,38,F,Metropolitana,La Florida,Crédito Hipotecario,Banco BCI,57302753,2018469,180,3.57,0,Al día,2024-01-31
+C0382,15.707.530-6,Valentina Carrasco Hernández,47,F,Maule,Curicó,Crédito Automotriz,Banco BCI,13127331,998998,36,12.53,20,Mora temprana,2025-08-17
+C0305,10.361.833-9,Isidora Castillo Torres,74,F,Valparaíso,San Antonio,Crédito Automotriz,Banco Estado,12362020,1250607,60,12.75,34,Mora media,2021-12-18
+C0034,18.984.132-9,Emilia Cortés Pérez,57,F,O'Higgins,Rancagua,Crédito Estudiantil,Banco Itaú,1454696,1719976,24,3.93,0,Al día,2023-12-29
+C0372,8.639.648-3,Antonia Morales Muñoz,39,F,Metropolitana,Providencia,Tarjeta de Crédito,Coopeuch,2924064,,3,38.01,0,Al día,2026-03-06
+C0064,21.334.916-3,Tomás Martínez Cortés,70,M,Antofagasta,Calama,Crédito Automotriz,Banco Ripley,4932227,2273256,60,13.74,0,Al día,2025-04-25
+C0041,19.534.584-8,Rosa Torres Castillo,63,F,Antofagasta,Calama,Crédito Automotriz,Banco de Chile,6717770,1096761,60,11.84,0,Al día,2023-04-27
+C0398,25.626.178-2,Isidora Álvarez Bravo,46,F,Maule,Cauquenes,Tarjeta de Crédito,CMR Falabella,1817254,1907996,3,40.56,5,Mora temprana,2025-06-01
+C0311,8.383.674-1,Sebastián Álvarez Tapia,54,M,Maule,Talca,Crédito Automotriz,Banco Ripley,17760468,1109662,60,9.92,86,Mora media,2022-04-06
+C0416,18.168.488-7,Rodrigo Araya Martínez,52,M,Coquimbo,La Serena,Crédito Estudiantil,Banco Estado,2998738,,60,3.35,59,Mora media,2024-01-02
+C0081,13.767.106-9,Pablo Muñoz Fuentes,19,M,Antofagasta,Antofagasta,Crédito Estudiantil,Banco Itaú,10620050,768164,60,4.13,0,Al día,2025-12-08
+C0079,15.087.836-5,Joaquín Vásquez Araya,25,M,Coquimbo,Illapel,Tarjeta de Crédito,Banco Itaú,2290121,1400542,6,19.23,0,Al día,2023-03-22
+C0286,20.786.620-2,Matías Fuentes Díaz,40,M,Los Ríos,Valdivia,Crédito de Consumo,Coopeuch,5074942,746034,36,20.53,0,Al día,2022-03-28
+C0052,22.700.736-2,Ximena Carrasco Flores,47,F,Maule,Talca,Tarjeta de Crédito,Banco Ripley,3252752,1685757,12,34.89,44,Mora media,2025-01-31
+C0355,20.313.470-3,Eduardo Soto Hernández,50,M,Maule,Cauquenes,Crédito de Consumo,Banco BCI,7426489,769632,12,24.82,46,Mora media,2022-08-03
+C0001,14.671.884-1,María Álvarez Martínez,33,F,Araucanía,Villarrica,Crédito Automotriz,Coopeuch,12906820,562323,60,7.22,0,Al día,2025-04-11
+C0400,17.653.242-4,Trinidad Vergara Espinoza,37,F,Antofagasta,Tocopilla,Crédito Automotriz,Banco BCI,16274461,436287,24,8.08,0,Al día,2022-12-28
+C0300,14.474.841-7,Ricardo Castillo Muñoz,21,M,Coquimbo,Coquimbo,Crédito Automotriz,Banco de Chile,11184645,386327,36,9.22,21,Mora temprana,2022-05-04
+C0254,19.537.746-4,Luis Bravo Cortés,68,M,Coquimbo,La Serena,Crédito de Consumo,Coopeuch,2367542,744130,12,15.09,18,Mora temprana,2023-07-06
+C0236,20.190.142-1,Patricia Valenzuela Castillo,37,F,O'Higgins,San Fernando,Tarjeta de Crédito,Caja Los Andes,1603968,1094823,1,40.05,52,Mora media,2023-06-10
+C0407,11.238.123-6,María Vásquez Torres,,F,Maule,Talca,Tarjeta de Crédito,Banco Estado,2847354,2247472,1,30.67,113,Mora avanzada,2026-03-18
+C0185,18.318.344-3,Emilia Rodríguez Espinoza,49,F,Araucanía,Villarrica,Tarjeta de Crédito,CMR Falabella,1057263,,6,35.17,1,Mora temprana,2024-09-13
+C0216,18.138.306-2,Vicente Castillo Soto,56,M,Metropolitana,La Florida,Tarjeta de Crédito,Banco Falabella,3055305,2062197,6,29.44,0,Al día,2024-08-16
+C0014,21.456.679-6,Emilia Tapia Carrasco,72,F,O'Higgins,Rancagua,Tarjeta de Crédito,Coopeuch,141898,2346603,1,43.01,41,Mora media,2024-04-20
+C0008,25.795.716-0,Trinidad Fuentes Soto,47,F,Metropolitana,Ñuñoa,Crédito Estudiantil,Banco Santander,2785277,1444685,48,4.53,0,Al día,2025-06-19
+C0394,25.025.821-6,Vicente Rodríguez Hernández,52,M,Biobío,Coronel,Crédito de Consumo,Banco Estado,8678825,1228428,24,31.11,170,Mora avanzada,2026-07-23
+C0117,15.635.083-4,Rodrigo Vergara González,41,M,Coquimbo,La Serena,Crédito Estudiantil,Banco Itaú,11557239,1025247,24,3.79,0,Al día,2022-11-27
+C0084,18.160.967-2,Agustín Vásquez Espinoza,66,M,Los Ríos,La Unión,Crédito Hipotecario,Banco Itaú,105268296,1901296,240,6.09,5,Mora temprana,2024-02-12
+C0207,15.906.834-K,Fernanda Reyes Rodríguez,69,F,O'Higgins,Rengo,Crédito Estudiantil,Banco Itaú,10287898,942840,24,4.52,57,Mora media,2023-07-31
+C0276,10.428.870-7,Carolina Sepúlveda Álvarez,71,F,O'Higgins,San Fernando,Crédito de Consumo,Banco Falabella,3563591,940033,48,30.81,9,Mora temprana,2025-08-07
+C0302,20.216.336-K,Eduardo Cortés Carrasco,53,M,Biobío,Concepción,Crédito de Consumo,Caja Los Andes,4718267,1000070,36,22.72,63,Mora media,2024-06-15
+C0391,25.789.426-6,Gabriel Fuentes Hernández,65,M,Metropolitana,Ñuñoa,Tarjeta de Crédito,Banco Estado,1054454,2268082,6,29.12,0,Al día,2022-12-16
+C0395,21.476.463-6,Jorge Gutiérrez Sepúlveda,48,M,Los Lagos,Osorno,Crédito Automotriz,Caja Los Andes,14561967,1090272,24,12.12,162,Mora avanzada,2022-10-12
+C0312,21.231.264-9,Sebastián Sepúlveda Araya,20,M,Coquimbo,Coquimbo,Crédito de Consumo,Banco BCI,1147581,420766,48,31.51,67,Mora media,2023-10-02
+C0017,10.434.143-8,Patricia Rojas Fuentes,60,F,Los Ríos,La Unión,Crédito Estudiantil,Banco BCI,6271130,1962968,36,2.8,0,Al día,2022-12-18
+C0130,18.340.454-7,Cristóbal Reyes Contreras,63,M,Los Ríos,La Unión,Tarjeta de Crédito,Coopeuch,3471900,1445668,1,30.24,0,Al día,2024-01-08
+C0067,22.921.516-7,Agustín Rodríguez Reyes,65,M,O'Higgins,Rengo,Crédito Hipotecario,Banco Santander,107902129,1375082,120,6.0,9,Mora temprana,2026-05-25
+C0179,22.578.850-2,Benjamín Sepúlveda Rojas,50,M,Araucanía,Villarrica,Crédito de Consumo,CMR Falabella,1409227,1609847,36,26.88,28,Mora temprana,2025-03-30
+C0416,18.168.488-7,Rodrigo Araya Martínez,52,M,Coquimbo,La Serena,Crédito Estudiantil,Banco Estado,2998738,,60,3.35,59,Mora media,2024-01-02
+C0026,22.107.837-3,Martín Rojas Reyes,39,M,Los Ríos,La Unión,Crédito Hipotecario,Banco de Chile,60308572,1889434,240,5.5,0,Al día,2022-09-03
+C0109,21.978.332-9,Andrea Espinoza Pérez,28,F,Los Ríos,La Unión,Crédito Automotriz,Banco Itaú,16845167,466390,24,7.57,386,Mora avanzada,2025-02-04
+C0184,18.197.504-0,Javiera Silva Tapia,51,F,Metropolitana,Providencia,Tarjeta de Crédito,Caja Los Andes,1264080,2196201,6,26.84,1,Mora temprana,2024-07-06
+C0086,9.313.391-9,Emilia Cortés Tapia,54,F,Araucanía,Angol,Crédito Hipotecario,Coopeuch,28304547,696378,300,3.81,52,Mora media,2022-07-30
+C0106,21.738.309-9,Matías Rodríguez Flores,54,M,Coquimbo,Illapel,Crédito Automotriz,Coopeuch,13266789,652149,24,7.46,0,Al día,2022-07-24
+C0260,13.564.786-1,Florencia López Silva,75,F,Los Ríos,La Unión,Tarjeta de Crédito,Coopeuch,459811,1595452,12,27.82,0,Al día,2025-03-29
+C0283,11.351.072-2,Gabriel Soto Torres,45,M,Araucanía,Padre Las Casas,Crédito Automotriz,Banco Ripley,17333213,1145624,60,8.96,0,Al día,2025-11-05
+C0328,11.059.870-K,Martín Morales Hernández,19,M,Biobío,Chillán,Crédito Hipotecario,Banco BCI,32103709,800123,240,4.47,23,Mora temprana,2022-02-11
+C0284,18.594.048-9,Diego Flores Fuentes,72,M,Maule,Curicó,Tarjeta de Crédito,Banco Santander,3459218,1509117,1,22.77,0,Al día,2021-10-26
+C0021,9.338.649-3,Valentina Rojas Bravo,62,F,Biobío,Coronel,Tarjeta de Crédito,Banco Ripley,2397458,1761772,3,29.6,0,Al día,2024-07-15
+C0071,25.496.999-0,Pedro Díaz Álvarez,22,M,Antofagasta,Calama,Crédito Automotriz,Coopeuch,4829622,975004,60,10.53,113,Mora avanzada,2022-07-03
+C0009,25.874.652-K,Patricia Morales Torres,19,F,Valparaíso,Quilpué,Crédito Estudiantil,Banco Falabella,1971823,529300,36,4.63,134,Mora avanzada,2022-06-24
+C0203,13.271.528-9,Fernanda Morales Soto,74,F,Maule,Curicó,Crédito Automotriz,Coopeuch,8669869,632779,60,11.93,0,Al día,2022-12-01
+C0343,25.249.013-2,Jorge Bravo Contreras,,M,Araucanía,Villarrica,Tarjeta de Crédito,Coopeuch,3321304,1049305,12,36.12,0,Al día,2025-09-12
+C0165,9.081.472-9,Andrea Díaz Martínez,67,F,O'Higgins,Rengo,Crédito de Consumo,Banco Estado,7704902,2171228,24,31.83,0,Al día,2021-12-05
+C0197,18.857.838-1,Tomás Torres Muñoz,23,M,Metropolitana,La Florida,Crédito Hipotecario,Banco Estado,84154596,890425,120,4.5,26,Mora temprana,2025-11-06
+C0242,12.876.355-4,Manuel Díaz Vásquez,40,M,O'Higgins,Rengo,Crédito Hipotecario,CMR Falabella,91659221,1793991,240,6.13,0,Al día,2026-07-05
+C0319,15.925.716-9,Andrés Cortés Gutiérrez,19,M,Metropolitana,La Florida,Crédito Estudiantil,Banco Falabella,9219709,647727,60,4.23,0,Al día,2022-09-29
+C0162,13.812.795-8,Ximena Pérez Morales,25,F,Araucanía,Angol,Tarjeta de Crédito,Banco Ripley,672900,1834241,12,29.29,0,Al día,2024-06-06
+C0113,11.607.003-0,Fernanda López Araya,,F,Araucanía,Villarrica,Crédito Hipotecario,Banco Estado,57763008,485990,300,5.29,74,Mora media,2023-12-11
+C0042,24.247.008-7,Pablo Flores Morales,40,M,Antofagasta,Calama,Crédito de Consumo,Banco BCI,3531028,633033,36,17.03,0,Al día,2022-04-23
+C0221,14.051.768-2,Joaquín Araya Díaz,73,M,Maule,Linares,Crédito de Consumo,Banco Santander,3660419,734882,36,21.96,30,Mora temprana,2024-01-06
+C0054,17.269.324-5,Manuel Sepúlveda Araya,63,M,Los Lagos,Puerto Varas,Crédito Automotriz,Caja Los Andes,10663605,980254,36,9.69,351,Mora avanzada,2022-05-25
+C0366,13.970.322-7,Claudia Hernández Cortés,35,F,Maule,Linares,Tarjeta de Crédito,Banco de Chile,3339418,961513,1,28.34,0,Al día,2026-03-30
+C0353,20.089.255-0,Trinidad Carrasco González,33,F,Maule,Cauquenes,Crédito Hipotecario,CMR Falabella,71212793,1231512,300,5.14,16,Mora temprana,2025-10-20
+C0194,17.426.536-4,Amanda Tapia Gutiérrez,40,F,Antofagasta,Tocopilla,Crédito Automotriz,Banco Ripley,11428760,1566256,48,9.72,0,Al día,2024-10-16
+C0347,12.274.633-K,Nicolás Soto Gutiérrez,60,M,Coquimbo,Ovalle,Crédito de Consumo,Banco Estado,8274787,568788,12,20.97,0,Al día,2025-08-16
+C0024,16.764.927-0,María Reyes Contreras,43,F,Coquimbo,Ovalle,Crédito Estudiantil,Banco Falabella,11762277,1116406,72,3.2,365,Mora avanzada,2024-09-21
+C0350,10.063.001-K,Andrea Valenzuela Hernández,38,F,O'Higgins,Rancagua,Crédito Automotriz,Banco Santander,9808088,1025997,24,11.19,20,Mora temprana,2022-04-04
+C0066,12.552.130-4,Claudia Rojas Castillo,70,F,Antofagasta,Tocopilla,Crédito de Consumo,CMR Falabella,2645069,687155,12,31.09,0,Al día,2023-10-27
+C0101,19.829.927-8,Sofía Valenzuela Vergara,29,F,O'Higgins,Rengo,Crédito de Consumo,Banco de Chile,5260015,1067697,36,22.58,6,Mora temprana,2022-09-18
+C0003,10.677.374-2,Sebastián Álvarez Hernández,52,M,Valparaíso,San Antonio,Tarjeta de Crédito,Banco Falabella,2716706,2119387,6,33.59,2,Mora temprana,2022-11-15
+C0100,22.243.845-4,Cristóbal Tapia Rodríguez,45,M,Maule,Cauquenes,Crédito Estudiantil,CMR Falabella,4134272,1091011,60,4.08,0,Al día,2022-02-10
+C0114,11.986.636-7,Vicente Bravo Martínez,64,M,Coquimbo,Illapel,Crédito de Consumo,CMR Falabella,3565774,536013,36,24.4,0,Al día,2023-10-03
+C0220,10.389.603-7,Ximena Bravo Morales,59,F,Valparaíso,Viña del Mar,Crédito de Consumo,Banco Falabella,5858579,1387973,36,19.43,0,Al día,2021-10-22
+C0061,17.927.829-4,Fernanda Hernández Rodríguez,55,F,Los Lagos,Puerto Varas,Crédito Hipotecario,Caja Los Andes,60550084,2152730,180,6.5,37,Mora media,2025-04-02
+C0388,20.509.554-3,Catalina Silva Flores,25,F,Antofagasta,Tocopilla,Crédito Estudiantil,Banco Itaú,4519758,1853969,36,2.96,63,Mora media,2022-10-07
+C0341,9.226.499-8,Pedro Pérez Contreras,39,M,Antofagasta,Tocopilla,Crédito Estudiantil,Banco Falabella,6491819,2006411,36,4.31,0,Al día,2023-09-08
+C0032,20.763.469-7,Rosa Contreras Rojas,44,F,Maule,Linares,Crédito de Consumo,CMR Falabella,3770105,510580,48,21.62,75,Mora media,2026-06-21
+C0176,16.030.953-9,Constanza Flores Valenzuela,56,F,Los Ríos,La Unión,Crédito Automotriz,Banco Estado,17211476,2373973,48,8.44,7,Mora temprana,2022-05-22
+C0392,13.395.213-6,Agustín Sepúlveda Espinoza,26,M,Los Lagos,Osorno,Crédito Automotriz,Banco BCI,9239485,1395531,48,12.39,0,Al día,2024-08-07
+C0232,25.609.966-7,Patricia López Vásquez,40,F,Los Ríos,Valdivia,Crédito Estudiantil,Banco Santander,9189341,1393091,24,4.66,0,Al día,2026-03-24
+C0375,24.339.917-3,Josefa Pérez Vásquez,,F,Biobío,Los Ángeles,Crédito de Consumo,Caja Los Andes,982814,890959,24,16.7,70,Mora media,2024-06-21
+C0180,13.602.347-0,Emilia Valenzuela Valenzuela,21,F,Los Lagos,Osorno,Tarjeta de Crédito,Banco Santander,127607,1110690,3,31.4,0,Al día,2023-09-06
+C0346,16.658.813-8,Marcela Vásquez Hernández,54,F,Biobío,Concepción,Crédito Automotriz,Caja Los Andes,10643434,583975,48,11.79,15,Mora temprana,2023-12-11
+C0080,10.418.452-9,Marcela Martínez Sepúlveda,38,F,Valparaíso,Valparaíso,Crédito de Consumo,CMR Falabella,2467376,748458,48,24.05,0,Al día,2023-06-13
+C0330,24.697.611-2,Camila Soto Vásquez,,F,Metropolitana,Providencia,Crédito de Consumo,Caja Los Andes,3331576,1084177,12,30.28,92,Mora avanzada,2023-02-02
+C0142,24.213.640-3,Paula Muñoz Vergara,72,F,Valparaíso,Valparaíso,Crédito Automotriz,CMR Falabella,17135554,735174,36,7.48,0,Al día,2025-05-10
+C0065,19.006.064-0,Benjamín Tapia López,18,M,Los Lagos,Puerto Montt,Crédito de Consumo,Banco Falabella,6692547,963546,36,16.84,0,Al día,2026-06-10
+C0412,21.442.720-6,Joaquín Carrasco Rojas,75,M,Antofagasta,Tocopilla,Crédito de Consumo,Banco Estado,8548490,1973194,12,21.74,0,Al día,2022-10-15
+C0172,15.161.226-1,Josefa Rojas Castillo,41,F,Los Lagos,Puerto Montt,Crédito de Consumo,Banco Santander,6949508,488605,36,27.34,58,Mora media,2022-11-27
+C0202,16.761.991-6,Sofía Torres Bravo,42,F,Coquimbo,Illapel,Tarjeta de Crédito,Caja Los Andes,2504540,,3,22.39,0,Al día,2021-11-02
+C0235,8.005.694-K,Fernanda Hernández Hernández,69,F,Los Ríos,La Unión,Tarjeta de Crédito,Caja Los Andes,1405658,1449325,1,44.48,1,Mora temprana,2026-01-02
+C0177,23.804.628-9,Nicolás Díaz Silva,49,M,Los Ríos,Valdivia,Crédito de Consumo,Banco Estado,5609530,1137277,24,21.58,57,Mora media,2024-07-13
+C0028,10.443.709-5,Pablo Soto Reyes,23,M,Los Lagos,Castro,Tarjeta de Crédito,Banco BCI,1381993,1074572,3,39.78,0,Al día,2026-04-28
+C0018,18.150.790-K,Emilia Valenzuela Espinoza,24,F,Valparaíso,Villa Alemana,Tarjeta de Crédito,Banco Falabella,1543849,394668,1,41.74,0,Al día,2025-09-11
+C0309,16.383.806-0,Trinidad González Sepúlveda,32,F,Araucanía,Angol,Tarjeta de Crédito,Banco Falabella,2224428,1541115,3,20.55,0,Al día,2025-09-15
+C0158,11.861.620-0,Verónica Pérez Rodríguez,37,F,Coquimbo,Illapel,Crédito Automotriz,Coopeuch,8843509,1392769,60,7.68,15,Mora temprana,2024-10-16
+C0189,21.295.757-7,Ignacio Hernández Martínez,72,M,Valparaíso,Valparaíso,Tarjeta de Crédito,Banco Falabella,3035746,2324363,1,23.81,40,Mora media,2026-01-26
+C0266,13.723.271-5,Javiera Martínez Cortés,29,F,O'Higgins,Rengo,Crédito Hipotecario,Banco Itaú,22499138,1717191,240,6.34,0,Al día,2023-03-07
+C0186,20.498.756-4,Isidora Araya Silva,44,F,Antofagasta,Antofagasta,Crédito Estudiantil,Banco Santander,5694689,1872443,24,2.13,0,Al día,2021-11-03
+C0075,19.747.876-4,Luis Díaz Fuentes,40,M,Maule,Talca,Crédito Estudiantil,Banco Itaú,6899644,1035252,24,3.73,0,Al día,2022-11-25
+C0314,8.812.246-1,Carolina Valenzuela Álvarez,51,F,Araucanía,Villarrica,Tarjeta de Crédito,CMR Falabella,2951999,1058243,1,21.04,0,Al día,2024-07-13
+C0127,24.861.788-8,Nicolás Silva Hernández,66,M,Los Lagos,Castro,Crédito de Consumo,Banco Itaú,4688133,444380,36,26.78,0,Al día,2025-12-01
+C0397,22.951.050-9,Joaquín Torres Morales,56,M,Los Ríos,Valdivia,Crédito Estudiantil,Banco Ripley,3482120,1335112,60,3.11,0,Al día,2024-12-26
+C0313,21.264.697-0,Camila Morales Rojas,48,F,Los Ríos,Valdivia,Crédito de Consumo,Banco Falabella,6986174,558423,48,28.16,0,Al día,2025-10-28
+C0163,24.499.582-9,Daniela Sepúlveda Pérez,29,F,Coquimbo,Illapel,Crédito Hipotecario,Banco Ripley,85043108,400097,180,4.09,0,Al día,2023-06-07
+C0405,13.778.313-4,Sofía Hernández Cortés,22,F,Valparaíso,Viña del Mar,Crédito Estudiantil,Caja Los Andes,6227335,666149,48,2.42,0,Al día,2023-03-26
+C0192,22.965.660-0,Antonia Hernández Muñoz,28,F,Los Ríos,La Unión,Crédito Automotriz,CMR Falabella,3494630,1420452,60,11.78,0,Al día,2025-05-18
+C0252,11.561.317-0,Jorge López Fuentes,38,M,Metropolitana,Providencia,Crédito Hipotecario,Coopeuch,106090303,392370,120,5.77,23,Mora temprana,2021-10-28
+C0336,11.819.727-5,Martín Muñoz Morales,40,M,O'Higgins,San Fernando,Tarjeta de Crédito,Banco BCI,1261228,1827070,6,39.34,0,Al día,2023-09-28
+C0131,12.544.238-2,Amanda Martínez Vergara,18,F,Araucanía,Temuco,Tarjeta de Crédito,Banco Ripley,347428,,1,43.23,0,Al día,2023-12-08
+C0210,23.872.810-K,Sofía Pérez Pérez,54,F,Los Ríos,Valdivia,Crédito Estudiantil,Banco Itaú,2694338,2014823,48,4.6,87,Mora media,2024-04-11
+C0226,14.895.265-5,Ricardo Flores Valenzuela,21,M,Los Ríos,Valdivia,Crédito Hipotecario,Banco Estado,112576644,380000,120,4.75,0,Al día,2023-07-07
+C0141,14.175.618-4,Diego López Espinoza,71,M,Araucanía,Padre Las Casas,Crédito de Consumo,Banco Ripley,8497701,1011618,48,22.83,12,Mora temprana,2025-08-19
+C0367,10.446.772-5,Benjamín Torres Cortés,30,M,Los Ríos,La Unión,Tarjeta de Crédito,Caja Los Andes,683445,607395,12,23.9,30,Mora temprana,2024-02-08
+C0090,13.554.572-4,Constanza Pérez Pérez,22,F,Los Lagos,Puerto Montt,Crédito de Consumo,Coopeuch,933297,1278823,36,29.9,20,Mora temprana,2024-06-20
+C0055,20.657.069-5,Francisco Cortés Tapia,50,M,Los Lagos,Puerto Montt,Tarjeta de Crédito,Banco Falabella,2541795,2136314,12,41.36,0,Al día,2023-11-13
+C0074,10.012.627-3,Martín Morales Reyes,34,M,Coquimbo,Coquimbo,Crédito Hipotecario,Caja Los Andes,32243983,520788,120,3.78,0,Al día,2022-06-09
+C0112,24.688.977-5,Nicolás Carrasco Valenzuela,44,M,Araucanía,Villarrica,Crédito Automotriz,Banco Itaú,8246485,1892315,36,12.34,0,Al día,2023-09-11
+C0373,11.831.234-1,Eduardo Muñoz Silva,62,M,Biobío,Concepción,Tarjeta de Crédito,Banco Estado,3409006,1126986,1,30.32,0,Al día,2023-04-08
+C0298,22.568.047-7,Claudia Álvarez Muñoz,65,F,O'Higgins,San Fernando,Tarjeta de Crédito,Caja Los Andes,1333312,1890980,3,27.73,0,Al día,2022-11-04
+C0200,15.985.818-9,Rosa Espinoza López,72,F,Los Ríos,Valdivia,Tarjeta de Crédito,Banco Ripley,2644318,2283810,3,35.27,0,Al día,2023-10-19
+C0169,11.125.315-3,Nicolás Hernández Rojas,58,M,Valparaíso,San Antonio,Crédito de Consumo,Banco Falabella,6491986,2020588,48,31.15,0,Al día,2026-07-26
+C0306,23.392.108-4,Benjamín Contreras Araya,24,M,Valparaíso,Viña del Mar,Crédito de Consumo,Banco BCI,4473551,471000,24,24.49,24,Mora temprana,2025-12-27
+C0063,20.276.141-0,Claudia Díaz Bravo,58,F,Metropolitana,Ñuñoa,Crédito Automotriz,Banco Estado,9121355,1754999,36,7.63,0,Al día,2022-05-23
+C0122,19.082.814-K,Carolina Martínez Cortés,53,F,Los Lagos,Osorno,Tarjeta de Crédito,Banco Itaú,1096942,881810,1,36.09,0,Al día,2023-01-02
+C0301,23.716.718-K,Rosa López Rodríguez,64,F,Biobío,Los Ángeles,Crédito Estudiantil,Caja Los Andes,8340032,2048092,72,2.88,7,Mora temprana,2023-05-28
+C0392,13.395.213-6,Agustín Sepúlveda Espinoza,26,M,Los Lagos,Osorno,Crédito Automotriz,Banco BCI,9239485,1395531,48,12.39,0,Al día,2024-08-07
+C0408,16.114.217-4,Patricia Contreras Espinoza,75,F,Araucanía,Villarrica,Crédito Hipotecario,Banco Estado,39536326,627415,240,6.35,0,Al día,2025-09-06
+C0269,11.278.835-2,Marcela Reyes Castillo,45,F,O'Higgins,Rengo,Crédito de Consumo,Banco Estado,7496691,1843063,24,30.95,0,Al día,2022-04-09
+C0356,10.619.994-9,Antonia Espinoza Torres,63,F,Coquimbo,La Serena,Crédito Hipotecario,Banco de Chile,118003834,745776,240,4.89,0,Al día,2023-02-28
+C0062,16.409.639-4,Matías Vergara Reyes,43,M,Los Lagos,Puerto Montt,Crédito de Consumo,Banco Estado,8633700,1651726,36,28.19,0,Al día,2022-01-31
+C0257,22.633.895-0,Agustín Morales Valenzuela,60,M,Los Lagos,Osorno,Crédito de Consumo,Banco Ripley,5607189,2281255,48,17.87,0,Al día,2022-03-05
+C0293,17.122.279-6,Carolina Rodríguez Contreras,44,F,O'Higgins,Rengo,Crédito de Consumo,Banco Santander,6838471,1879333,48,18.75,0,Al día,2023-01-28
+C0058,17.642.839-2,Eduardo Gutiérrez López,59,M,Valparaíso,Quilpué,Crédito Estudiantil,Coopeuch,6312692,1294630,60,4.62,0,Al día,2026-03-13
+C0335,14.956.868-9,Pedro Álvarez Castillo,49,M,Antofagasta,Antofagasta,Crédito Estudiantil,Banco BCI,5873580,1866014,36,2.0,0,Al día,2023-01-28
+C0072,18.911.412-5,Agustín Castillo González,21,M,Antofagasta,Calama,Crédito de Consumo,Banco de Chile,7741741,844900,12,30.29,0,Al día,2025-10-01
+C0204,22.348.075-6,Valentina Morales Contreras,30,F,Maule,Linares,Crédito Hipotecario,Banco Falabella,32873617,878174,120,4.68,0,Al día,2023-10-30
+C0047,14.637.711-4,María Fuentes Hernández,62,F,Los Ríos,La Unión,Tarjeta de Crédito,Banco BCI,3045187,1082618,6,36.98,0,Al día,2022-09-23
+C0354,23.301.782-5,Vicente Sepúlveda Carrasco,60,M,Biobío,Talcahuano,Tarjeta de Crédito,Banco Estado,3105516,750179,12,35.76,160,Mora avanzada,2026-02-08
+C0209,22.079.232-3,Patricia Martínez Morales,64,F,Valparaíso,Valparaíso,Crédito de Consumo,CMR Falabella,5771499,1691515,36,23.83,97,Mora avanzada,2022-03-04
+C0345,25.900.783-6,Valentina López Muñoz,23,F,Maule,Cauquenes,Tarjeta de Crédito,Banco Itaú,2720191,973859,12,34.64,0,Al día,2021-12-30
+C0413,17.159.446-4,Verónica Cortés Bravo,28,F,Valparaíso,Quilpué,Crédito Estudiantil,Banco Ripley,10981786,799982,60,2.37,77,Mora media,2023-10-13
+C0385,20.429.248-5,Florencia Sepúlveda Silva,59,F,Valparaíso,Valparaíso,Crédito de Consumo,Banco Falabella,8005487,791257,12,31.6,0,Al día,2025-10-21
+C0043,9.829.589-5,Pablo Espinoza Vásquez,51,M,Los Ríos,La Unión,Crédito Estudiantil,Banco BCI,4816534,1001273,48,2.54,0,Al día,2023-08-03
+C0029,9.685.049-2,Martín Bravo Castillo,54,M,Araucanía,Padre Las Casas,Crédito de Consumo,Banco BCI,393026,689479,12,28.23,0,Al día,2022-01-27
+C0011,10.377.578-7,Cristóbal Silva Silva,22,M,Coquimbo,La Serena,Crédito Hipotecario,Banco BCI,49557077,968428,120,3.71,8,Mora temprana,2026-03-15
+C0377,15.357.686-6,Rosa Torres Valenzuela,23,F,Los Lagos,Castro,Crédito de Consumo,Coopeuch,3519595,524502,12,31.77,276,Mora avanzada,2021-09-29
+C0022,21.834.304-K,Joaquín Reyes Silva,60,M,Valparaíso,Quilpué,Crédito Automotriz,CMR Falabella,15574147,1849783,36,13.48,0,Al día,2025-09-02
+C0091,22.783.995-3,Sebastián Fuentes Rodríguez,61,M,Araucanía,Padre Las Casas,Crédito Hipotecario,Caja Los Andes,91673763,957812,180,4.43,61,Mora media,2021-11-24
+C0282,23.815.725-0,Cristóbal Gutiérrez Araya,47,M,Coquimbo,La Serena,Tarjeta de Crédito,Banco BCI,2516925,1175718,1,26.79,9,Mora temprana,2025-07-13
+C0143,11.231.757-0,Matías González Flores,53,M,Maule,Talca,Tarjeta de Crédito,Banco Falabella,1282458,1503524,1,31.56,14,Mora temprana,2022-01-22
+C0133,22.067.380-4,Trinidad Hernández Reyes,64,F,O'Higgins,Rengo,Crédito de Consumo,Banco BCI,8028009,988977,36,17.64,0,Al día,2022-07-08
+C0329,13.036.175-7,Rosa Hernández Castillo,41,F,Valparaíso,Villa Alemana,Crédito Automotriz,Coopeuch,5682671,1663609,60,10.85,0,Al día,2025-08-16
+C0070,12.253.310-7,Vicente Pérez Flores,34,M,Biobío,Concepción,Crédito Hipotecario,Banco Estado,21994519,,240,5.87,0,Al día,2024-10-06
+C0401,12.012.562-1,Tomás Torres Cortés,62,M,Araucanía,Temuco,Tarjeta de Crédito,Banco Falabella,359864,1555401,6,33.69,28,Mora temprana,2025-02-18
+C0082,10.562.866-8,Manuel Cortés Rodríguez,23,M,Maule,Talca,Tarjeta de Crédito,Banco Itaú,2277658,731882,1,28.69,0,Al día,2024-09-04
+C0342,8.754.312-9,Nicolás Gutiérrez Carrasco,51,M,Valparaíso,Valparaíso,Crédito de Consumo,Banco Estado,1760891,1820853,36,22.94,0,Al día,2023-08-30
+C0019,16.857.829-6,Ximena Vergara Flores,37,F,Valparaíso,Viña del Mar,Tarjeta de Crédito,Banco de Chile,2400388,1936960,3,25.35,23,Mora temprana,2024-08-28
+C0217,18.025.766-7,Carlos Díaz González,50,M,Coquimbo,Ovalle,Tarjeta de Crédito,Banco de Chile,347752,1390278,6,44.69,28,Mora temprana,2025-01-10
+C0174,15.148.954-0,Valentina Morales Rodríguez,74,F,Los Lagos,Osorno,Crédito de Consumo,Banco Santander,2696676,1898030,12,24.02,0,Al día,2022-12-08
+C0287,16.974.884-5,Agustín Castillo Pérez,73,M,Biobío,Los Ángeles,Crédito de Consumo,Banco Itaú,7090959,1736691,12,16.34,0,Al día,2024-10-27
+C0249,11.219.763-K,Cristóbal López Martínez,52,M,Los Lagos,Puerto Montt,Crédito Estudiantil,Banco Ripley,9535166,1458584,60,3.46,0,Al día,2022-12-05
+C0238,23.116.425-1,Josefa Valenzuela Contreras,30,F,Valparaíso,San Antonio,Tarjeta de Crédito,Banco BCI,1497396,1883213,1,38.44,0,Al día,2023-01-12
+C0159,22.500.026-3,Catalina Castillo Díaz,61,F,Biobío,Talcahuano,Crédito de Consumo,Coopeuch,5853084,787410,48,31.29,0,Al día,2024-04-23
+C0126,8.229.180-6,Verónica Morales Tapia,36,F,Los Ríos,Valdivia,Tarjeta de Crédito,CMR Falabella,1873917,2114323,6,20.34,6,Mora temprana,2025-10-17
+C0015,18.522.831-2,Javiera López González,42,F,Los Lagos,Puerto Varas,Tarjeta de Crédito,Coopeuch,3093222,1768044,12,22.18,0,Al día,2026-04-03
+C0099,19.137.544-0,Sebastián Sepúlveda Contreras,20,M,Araucanía,Temuco,Crédito de Consumo,Banco Falabella,6981090,876502,48,19.31,43,Mora media,2024-12-23
+C0077,20.416.921-7,Gabriel González Soto,73,M,Biobío,Coronel,Crédito Hipotecario,Banco de Chile,119451183,745285,120,3.78,0,Al día,2024-06-21
+C0059,21.826.162-0,Verónica Rojas Fuentes,24,F,Valparaíso,San Antonio,Tarjeta de Crédito,Banco Falabella,272900,380000,6,39.5,0,Al día,2024-06-24
+C0123,25.956.730-0,Cristóbal Reyes Vásquez,26,M,Metropolitana,Maipú,Crédito de Consumo,Caja Los Andes,3646315,1381282,36,20.46,30,Mora temprana,2022-04-09
+C0208,14.775.286-5,Ignacio Rojas López,75,M,Metropolitana,Maipú,Tarjeta de Crédito,Caja Los Andes,781139,816808,3,39.83,0,Al día,2024-03-16
+C0121,15.180.205-2,Cristóbal Espinoza Reyes,52,M,Maule,Cauquenes,Crédito Automotriz,Banco Santander,3705758,989123,48,13.69,0,Al día,2024-02-07
+C0308,25.368.088-1,Eduardo Silva Espinoza,52,M,Araucanía,Padre Las Casas,Crédito Automotriz,Banco Falabella,10590070,1134992,60,13.72,0,Al día,2026-05-22
+C0132,8.116.544-0,Gabriel Bravo López,46,M,Maule,Cauquenes,Tarjeta de Crédito,Coopeuch,2821120,658899,6,21.2,292,Mora avanzada,2023-08-13
+C0083,13.944.037-4,Paula Araya Contreras,75,F,Coquimbo,Ovalle,Crédito Automotriz,Banco Santander,4724773,963040,36,8.79,0,Al día,2025-09-21
+C0331,14.967.161-7,Andrés Tapia González,56,M,Antofagasta,Antofagasta,Tarjeta de Crédito,Caja Los Andes,1800299,1464713,12,20.14,8,Mora temprana,2023-07-07
+C0147,11.277.791-1,Trinidad Soto Espinoza,33,F,Los Ríos,La Unión,Crédito Hipotecario,Coopeuch,71518966,1075687,180,5.87,3,Mora temprana,2023-10-10
+C0137,9.729.282-5,Sebastián Flores Fuentes,44,M,O'Higgins,San Fernando,Tarjeta de Crédito,Banco BCI,932856,914764,6,35.46,280,Mora avanzada,2026-01-23
+C0212,21.662.370-3,Rodrigo Carrasco Gutiérrez,61,M,Valparaíso,Viña del Mar,Tarjeta de Crédito,Caja Los Andes,1425819,2203586,6,37.68,3,Mora temprana,2025-07-12
+C0105,15.943.548-2,Ximena Carrasco Morales,60,F,Coquimbo,La Serena,Crédito de Consumo,Banco Falabella,2942499,1109959,24,28.49,0,Al día,2025-11-25
+C0325,20.763.239-2,Verónica Reyes Contreras,66,F,Araucanía,Temuco,Tarjeta de Crédito,Caja Los Andes,2668134,2418351,12,36.57,87,Mora media,2025-03-13
+C0033,21.566.616-6,Matías Rodríguez Sepúlveda,66,M,Maule,Cauquenes,Crédito de Consumo,Coopeuch,4000025,2263189,48,18.73,0,Al día,2026-06-02
+C0164,24.619.957-4,Manuel Vergara Hernández,49,M,Biobío,Concepción,Crédito de Consumo,Banco BCI,848532,992556,36,18.82,0,Al día,2022-03-16
+C0211,18.433.727-4,Javiera Martínez López,27,F,Los Ríos,La Unión,Tarjeta de Crédito,Banco Ripley,1076479,1828112,1,38.14,281,Mora avanzada,2026-06-20
+C0360,19.578.819-7,Paula Carrasco Muñoz,39,F,Valparaíso,Viña del Mar,Crédito Hipotecario,Banco Santander,86565050,2136604,300,5.81,0,Al día,2024-02-11
+C0389,10.690.072-8,Agustín Torres Araya,51,M,Valparaíso,San Antonio,Crédito Automotriz,Coopeuch,10582938,992922,48,12.6,124,Mora avanzada,2025-07-11
+C0078,21.897.700-6,Pablo Morales Vásquez,54,M,Los Ríos,Valdivia,Crédito Estudiantil,Banco Santander,11365604,710112,24,4.02,0,Al día,2022-11-14
+C0124,11.600.413-5,Javiera Fuentes Bravo,71,F,Biobío,Concepción,Crédito Estudiantil,CMR Falabella,9311162,,36,4.81,239,Mora avanzada,2026-05-16
+C0076,18.367.805-1,Cristóbal Vásquez Martínez,54,M,Araucanía,Padre Las Casas,Crédito Automotriz,Banco Itaú,14324230,,24,11.26,23,Mora temprana,2025-01-30
+C0237,21.730.834-8,Cristóbal Díaz Vásquez,60,M,Araucanía,Temuco,Crédito de Consumo,Banco Falabella,6572839,1681449,12,15.78,0,Al día,2025-10-17
+C0086,9.313.391-9,Emilia Cortés Tapia,54,F,Araucanía,Angol,Crédito Hipotecario,Coopeuch,28304547,696378,300,3.81,52,Mora media,2022-07-30
+C0384,15.315.083-4,Sofía Muñoz Muñoz,48,F,O'Higgins,Rancagua,Crédito de Consumo,CMR Falabella,1944153,,48,23.42,0,Al día,2022-05-11
+C0268,12.373.110-7,Paula Carrasco Cortés,50,F,Maule,Curicó,Crédito Hipotecario,Banco Santander,102510102,1377970,120,6.13,0,Al día,2022-05-13
+C0031,20.852.531-K,Agustín Martínez Vásquez,33,M,Los Lagos,Puerto Varas,Crédito Hipotecario,Banco Falabella,30399639,1302479,240,4.2,0,Al día,2023-07-21
+C0321,22.430.563-K,Diego Espinoza Pérez,45,M,Los Lagos,Castro,Crédito de Consumo,Banco Santander,2624928,813601,24,29.66,0,Al día,2022-08-17
+C0290,17.140.711-7,Verónica Sepúlveda Hernández,58,F,Biobío,Talcahuano,Crédito de Consumo,Banco Santander,889802,483909,36,29.63,0,Al día,2023-11-29
+C0223,19.554.461-1,Nicolás Fuentes Torres,42,M,Metropolitana,Santiago,Crédito de Consumo,Banco Ripley,5705839,409521,24,15.3,0,Al día,2022-06-20
+C0315,9.829.992-0,Tomás Rodríguez Valenzuela,70,M,Antofagasta,Tocopilla,Tarjeta de Crédito,Banco Estado,1059326,2305413,3,36.5,0,Al día,2022-07-01
+C0273,9.266.858-4,Francisco Tapia Flores,57,M,Metropolitana,Maipú,Crédito de Consumo,Banco Estado,1828212,2273572,24,23.02,3,Mora temprana,2026-03-22
+C0327,12.540.138-4,Trinidad Hernández López,74,F,Los Lagos,Castro,Crédito de Consumo,CMR Falabella,1215141,1097186,24,22.88,3,Mora temprana,2022-07-13
+C0138,14.376.137-1,Nicolás Reyes Valenzuela,,M,Metropolitana,Puente Alto,Tarjeta de Crédito,Banco Itaú,2896267,2088875,3,30.94,52,Mora media,2024-11-18
+C0240,21.849.439-0,Amanda Reyes Valenzuela,56,F,Coquimbo,Illapel,Crédito de Consumo,Banco Itaú,4464755,2015541,36,21.76,0,Al día,2024-12-06
+C0339,18.552.848-0,Benjamín Pérez Martínez,71,M,Metropolitana,San Bernardo,Crédito Estudiantil,Coopeuch,3784505,2361317,72,3.82,0,Al día,2025-12-04
+C0417,20.676.787-1,Daniela Fuentes Pérez,37,F,Maule,Cauquenes,Crédito Automotriz,Banco Itaú,11230125,1795629,60,10.33,63,Mora media,2026-04-08
+C0256,18.663.126-9,Trinidad Reyes Rojas,34,F,Valparaíso,Viña del Mar,Crédito Automotriz,Caja Los Andes,8991787,1073844,36,11.7,0,Al día,2024-12-25
+C0296,20.803.613-0,Rodrigo Rodríguez Hernández,62,M,Metropolitana,San Bernardo,Tarjeta de Crédito,Banco Santander,1197797,547272,12,19.93,0,Al día,2025-07-03
+C0096,10.872.727-6,Valentina Vergara Bravo,49,F,Los Ríos,Valdivia,Crédito Hipotecario,Banco Itaú,116441387,887381,180,4.37,0,Al día,2024-08-08
+C0265,12.927.975-3,Luis Torres Torres,31,M,Los Ríos,Valdivia,Crédito Hipotecario,CMR Falabella,52704875,427072,120,3.88,5,Mora temprana,2023-01-19
+C0361,23.924.583-8,Claudia Martínez Vásquez,70,F,Valparaíso,Valparaíso,Tarjeta de Crédito,CMR Falabella,1344025,1516603,12,38.15,65,Mora media,2025-04-09
+C0322,17.187.074-7,Claudia Cortés Espinoza,28,F,Coquimbo,La Serena,Crédito de Consumo,Banco de Chile,5628403,766159,24,27.36,87,Mora media,2024-04-05
+C0010,25.366.963-2,Camila Reyes Torres,53,F,Biobío,Los Ángeles,Crédito de Consumo,Banco Itaú,3853384,1267384,24,27.12,0,Al día,2022-10-25
+C0093,21.921.630-0,Trinidad Rojas Vásquez,28,F,Los Lagos,Puerto Varas,Crédito Estudiantil,Banco Santander,8339571,2122831,24,4.84,0,Al día,2024-01-20
+C0281,13.865.326-9,Carlos Carrasco Martínez,49,M,Biobío,Coronel,Tarjeta de Crédito,Banco BCI,2498709,,3,19.46,61,Mora media,2023-07-20
+C0344,23.795.264-2,Isidora Flores Rodríguez,53,F,Coquimbo,Ovalle,Tarjeta de Crédito,Banco Falabella,1106870,1583939,3,19.92,11,Mora temprana,2023-07-20
+C0233,9.830.935-7,Ximena Carrasco Morales,51,F,O'Higgins,San Fernando,Crédito Automotriz,Banco de Chile,14101706,1287747,36,10.37,21,Mora temprana,2024-06-03
+C0264,11.803.015-K,Emilia Soto Silva,22,F,O'Higgins,San Fernando,Tarjeta de Crédito,Banco Santander,740004,463181,6,34.25,73,Mora media,2025-04-16
+C0409,23.928.809-K,Valentina Vergara Espinoza,66,F,Metropolitana,La Florida,Crédito Automotriz,Banco Falabella,15650320,814258,24,13.82,0,Al día,2025-05-19
+C0129,25.459.764-3,Ximena Vásquez Valenzuela,73,F,Valparaíso,Villa Alemana,Crédito de Consumo,Banco Ripley,2182551,598172,12,29.09,194,Mora avanzada,2023-05-16
+C0411,17.750.559-5,Manuel Sepúlveda Flores,64,M,Metropolitana,Puente Alto,Crédito de Consumo,Banco de Chile,5058210,1305638,48,25.21,0,Al día,2021-11-12
+C0213,9.696.487-0,Ricardo Araya Carrasco,41,M,Metropolitana,Maipú,Tarjeta de Crédito,Coopeuch,648956,1225959,1,22.69,43,Mora media,2021-11-20
+C0103,25.372.648-2,Ximena Hernández Rodríguez,41,F,Antofagasta,Antofagasta,Crédito de Consumo,Coopeuch,6977903,,36,26.04,0,Al día,2025-12-11
+C0161,17.980.592-8,Francisco Contreras Hernández,25,M,Los Lagos,Puerto Varas,Crédito de Consumo,Banco Ripley,6820284,1631938,48,24.98,0,Al día,2021-11-03
+C0277,8.917.737-5,Francisco Díaz Tapia,50,M,Los Lagos,Castro,Crédito Hipotecario,CMR Falabella,84911705,1561050,180,5.77,325,Mora avanzada,2022-10-05
+C0340,8.836.672-7,Josefa Fuentes Rojas,49,F,Araucanía,Angol,Crédito de Consumo,Banco Falabella,5372059,833278,24,16.91,80,Mora media,2025-06-13
+C0222,22.552.940-K,Daniela Morales Castillo,29,F,Coquimbo,La Serena,Tarjeta de Crédito,Banco Falabella,3272676,819106,3,33.56,0,Al día,2022-03-06
+C0315,9.829.992-0,Tomás Rodríguez Valenzuela,70,M,Antofagasta,Tocopilla,Tarjeta de Crédito,Banco Estado,1059326,2305413,3,36.5,0,Al día,2022-07-01
+C0259,23.841.179-3,Josefa Álvarez Bravo,58,F,Valparaíso,Valparaíso,Crédito Estudiantil,Coopeuch,1523352,1875077,72,3.74,44,Mora media,2026-05-17
+C0155,22.035.842-9,Sofía Reyes Torres,26,F,Los Lagos,Osorno,Tarjeta de Crédito,Banco Santander,1854727,1879959,12,20.0,336,Mora avanzada,2023-04-26
+C0334,12.352.450-0,Pedro Fuentes Araya,31,M,Araucanía,Temuco,Tarjeta de Crédito,Coopeuch,2108629,563856,6,29.53,47,Mora media,2023-08-20
+C0040,24.393.952-6,Matías Torres Carrasco,38,M,Biobío,Chillán,Tarjeta de Crédito,Banco Falabella,1252972,1093742,6,33.01,0,Al día,2025-07-05
+C0178,13.123.105-9,María Espinoza Rojas,18,F,Los Lagos,Osorno,Tarjeta de Crédito,Banco Estado,1749228,1221156,6,34.97,0,Al día,2024-04-02
+C0108,11.134.937-1,Trinidad Soto Soto,38,F,Araucanía,Angol,Crédito Estudiantil,Coopeuch,2323049,975692,48,2.59,231,Mora avanzada,2025-11-17
+C0219,16.678.915-K,Pablo Gutiérrez Silva,61,M,O'Higgins,San Fernando,Crédito Automotriz,Banco Ripley,8036433,1588307,36,12.88,42,Mora media,2024-12-07
+C0244,22.866.755-2,Diego Araya Tapia,68,M,Los Lagos,Puerto Montt,Crédito Estudiantil,CMR Falabella,6245463,1378962,72,2.16,7,Mora temprana,2023-02-07
+C0272,25.057.178-K,Florencia Flores Flores,48,F,Los Lagos,Castro,Crédito de Consumo,CMR Falabella,2616405,1923047,12,27.71,0,Al día,2022-08-29
+C0291,20.273.651-3,Vicente Gutiérrez Flores,29,M,Los Ríos,La Unión,Crédito Hipotecario,Banco Itaú,90257585,1292213,240,6.23,0,Al día,2025-04-22
+C0035,9.350.838-6,Emilia Morales Morales,66,F,Maule,Linares,Crédito Automotriz,CMR Falabella,17007480,999956,24,10.29,2,Mora temprana,2024-08-14
+C0140,14.583.103-2,Cristóbal Tapia Álvarez,48,M,Coquimbo,Coquimbo,Crédito de Consumo,CMR Falabella,4012363,475872,24,15.28,19,Mora temprana,2023-05-02
+C0173,10.997.453-6,Benjamín Pérez Espinoza,32,M,O'Higgins,San Fernando,Crédito de Consumo,Banco Estado,6064217,1838772,12,31.8,0,Al día,2025-11-03
+C0304,10.378.135-3,Camila Soto Carrasco,20,F,Araucanía,Temuco,Crédito de Consumo,Banco de Chile,6819606,380000,48,23.94,9,Mora temprana,2026-04-22
+C0049,8.696.101-6,Felipe Araya Flores,49,M,Antofagasta,Antofagasta,Crédito Hipotecario,CMR Falabella,63261270,1920429,240,3.58,0,Al día,2022-10-20
+C0297,18.840.201-1,Valentina Vásquez Gutiérrez,33,F,Maule,Cauquenes,Tarjeta de Crédito,Banco Estado,2012880,797710,1,32.07,333,Mora avanzada,2024-05-26
+C0368,8.124.277-1,Andrea Álvarez Martínez,67,F,Antofagasta,Antofagasta,Crédito Estudiantil,Banco Santander,11743043,1924072,24,4.8,9,Mora temprana,2025-09-24
+C0048,18.203.607-2,Cristóbal Flores Silva,59,M,Biobío,Los Ángeles,Crédito Automotriz,Banco de Chile,5783722,555577,48,11.17,89,Mora media,2024-12-17
+C0381,17.415.513-5,Vicente Contreras Cortés,57,M,Antofagasta,Antofagasta,Crédito de Consumo,Banco Santander,3557379,,36,31.58,0,Al día,2025-11-13
+C0320,15.631.216-9,Sebastián Castillo Martínez,74,M,Maule,Talca,Crédito Estudiantil,Banco Falabella,3545240,938389,48,4.69,3,Mora temprana,2022-06-28
+C0116,24.436.526-4,Vicente Valenzuela Bravo,50,M,Biobío,Los Ángeles,Crédito Estudiantil,Banco Ripley,7592683,720791,72,4.22,0,Al día,2024-09-11
+C0206,13.071.103-0,Benjamín Castillo Flores,42,M,Biobío,Los Ángeles,Crédito Estudiantil,Banco Ripley,8478868,771292,24,2.79,0,Al día,2025-04-24
+C0294,14.301.168-2,Jorge Álvarez Flores,69,M,Los Lagos,Puerto Varas,Tarjeta de Crédito,Banco de Chile,653042,838788,6,20.98,0,Al día,2024-01-16
+C0153,16.134.409-5,Agustín Morales Fuentes,70,M,Los Ríos,Valdivia,Crédito de Consumo,Banco Itaú,3669728,2021946,48,20.34,254,Mora avanzada,2024-12-12
+C0025,14.611.401-6,Andrea Martínez Muñoz,,F,Los Ríos,La Unión,Crédito de Consumo,Banco Ripley,8880255,777110,12,21.55,9,Mora temprana,2026-05-02
+C0136,12.843.640-5,Andrés Torres Muñoz,40,M,Maule,Linares,Crédito Hipotecario,CMR Falabella,60250352,692932,300,4.05,0,Al día,2025-03-25
+C0148,22.490.412-6,Diego Vergara Rojas,39,M,Los Ríos,La Unión,Crédito Estudiantil,Banco Ripley,11638817,442129,48,4.35,0,Al día,2025-04-20
+C0110,12.820.721-K,Daniela Bravo Castillo,52,F,Los Lagos,Castro,Crédito de Consumo,CMR Falabella,7909207,1003764,12,26.71,0,Al día,2024-04-01
+C0275,10.302.410-2,Patricia Soto Reyes,,F,Coquimbo,Coquimbo,Crédito Hipotecario,Banco Santander,57035619,380000,300,4.56,0,Al día,2023-04-18
+C0039,20.716.770-3,Eduardo Tapia Cortés,52,M,Antofagasta,Calama,Crédito de Consumo,Banco Itaú,5707373,942866,24,29.12,0,Al día,2024-01-20
+C0404,14.322.218-7,Carolina Espinoza Rodríguez,70,F,Biobío,Concepción,Tarjeta de Crédito,Banco Falabella,3346556,1278493,12,29.12,174,Mora avanzada,2026-01-03
+C0326,9.654.080-9,Nicolás Valenzuela Álvarez,54,M,Los Ríos,Valdivia,Crédito de Consumo,Caja Los Andes,1011620,,24,23.82,0,Al día,2022-06-17
+C0255,23.477.491-3,Sofía Bravo Castillo,72,F,O'Higgins,Rancagua,Tarjeta de Crédito,Banco BCI,1140075,1841071,3,21.09,19,Mora temprana,2021-10-20
+C0104,22.935.453-1,Andrés Díaz Martínez,67,M,Los Lagos,Puerto Varas,Tarjeta de Crédito,Banco Itaú,2990765,1076787,12,23.4,0,Al día,2026-03-02
+C0224,19.500.205-3,Vicente Díaz López,50,M,Los Ríos,La Unión,Tarjeta de Crédito,Banco Estado,1299820,1005375,12,37.65,11,Mora temprana,2024-02-24
+C0187,21.185.303-4,Pablo Rojas Espinoza,24,M,O'Higgins,Rancagua,Crédito Hipotecario,CMR Falabella,99442904,380000,120,4.8,212,Mora avanzada,2024-12-11
+C0154,17.775.453-6,Nicolás Martínez Vergara,68,M,Maule,Linares,Tarjeta de Crédito,Banco Itaú,2563980,878912,3,36.41,24,Mora temprana,2023-12-29
